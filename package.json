@@ -1,0 +1,22 @@
+{
+  "name": "jenkins-cicd-first-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AfzalRahmanCSE/jenkins-cicd-first-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AfzalRahmanCSE/jenkins-cicd-first-demo/issues"
+  },
+  "homepage": "https://github.com/AfzalRahmanCSE/jenkins-cicd-first-demo#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
